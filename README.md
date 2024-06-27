@@ -1,5 +1,6 @@
 # spicetify-bat-installer-autoupdater
 Spicetify bat installer and autoupdater for Windows 11
+# SPICETIFY-INSTALL-V1 НЕ САДРЖИ АУТОАПДАЈТЕР
 
 # Инсталација и Аутоматско Ажурирање Spicetify
 
