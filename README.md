@@ -30,6 +30,8 @@
 
 ---
 
+[Српски](#serbian) | [English](#english)
+
 <a name="english"></a>
 ## English
 
