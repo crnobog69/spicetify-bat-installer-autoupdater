@@ -21,4 +21,4 @@
 [Spicetify GitHub](https://github.com/spicetify/spicetify-cli)
 
 ## 🆘 Треба вам помоћ?
-Отворите issue на GitHub-у
+Отворите **issue** на GitHub-у
