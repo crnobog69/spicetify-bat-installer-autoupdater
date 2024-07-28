@@ -22,7 +22,7 @@
 - Ради при сваком покретању рачунара
 - Датотека за аутоматско покретање ажурирања се налази у `C:\Users\ИмеКорисника\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-### ℹ️ Више информација
+### 📣 Више информација
 [Spicetify GitHub](https://github.com/spicetify/spicetify-cli)
 
 ### 🆘 Треба вам помоћ?
@@ -50,7 +50,7 @@
 - Runs every time the computer starts
 - The auto-start update file is located in `C:\Users\UserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-### ℹ️ More information
+### 📣 More information
 [Spicetify GitHub](https://github.com/spicetify/spicetify-cli)
 
 ### 🆘 Need help?
