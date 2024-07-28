@@ -1,4 +1,4 @@
-# 🎵 Spicetify Инсталер за Windows 11 / Spicetify Installer for Windows 11
+# 🎵 Spicetify Инсталер за Windows 11
 
 [Српски](#serbian) | [English](#english)
 
@@ -29,6 +29,7 @@
 Отворите **issue** на GitHub-у
 
 ---
+# 🎵 Spicetify Installer for Windows 11
 
 [Српски](#serbian) | [English](#english)
 
