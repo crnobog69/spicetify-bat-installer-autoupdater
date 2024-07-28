@@ -1,6 +1,6 @@
 # 🎵 Spicetify Инсталер за Windows 11 / Spicetify Installer for Windows 11
 
-[English](#english) | [Српски](#serbian)
+[Српски](#serbian) | [English](#english)
 
 <a name="serbian"></a>
 ## Српски
