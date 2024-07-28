@@ -12,7 +12,7 @@ Spicetify bat installer and autoupdater for Windows 11
 
 Када изаже опција за Spicetify Marketplace можете кликнути Y или N. 
 
-BAT фајл такоже прави аутоапдејтер који се налази у C:\Users\ИмеКорисника\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup и поређе се сваки пут када се пали рачунар.
+BAT фајл такоже прави аутоапдејтер који се налази у C:\Users\ИмеКорисника\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup и покрееће се сваки пут када се пали рачунар.
 
 ## Додатне Информације
 
