@@ -1,7 +1,7 @@
 # 🎵 Spicetify Инсталер за Windows 11
 
 > [!CAUTION]
-> SPICETIFY-INSTALL-V1 НЕ САДРЖИ АУТОАПДАЈТЕР
+> **SPICETIFY-INSTALL-V1** НЕ САДРЖИ АУТОАПДАЈТЕР
 
 ## 🚀 Шта ради?
 - Инсталира Spicetify
