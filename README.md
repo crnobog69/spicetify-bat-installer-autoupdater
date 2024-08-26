@@ -7,7 +7,7 @@
 ## Српски
 
 > [!CAUTION]
-> **SPICETIFY-INSTALL-V1** НЕ САДРЖИ АУТОАПДАЈТЕР
+> **SPICETIFY-INSTALL-V1** НЕ САДРЖИ АУТОМАТСКО АЖУРИРАЊЕ
 
 ### 🚀 Шта ради?
 - Инсталира Spicetify
@@ -39,7 +39,7 @@
 ## English
 
 > [!CAUTION]
-> **SPICETIFY-INSTALL-V1** DOES NOT INCLUDE AUTO-UPDATER
+> **SPICETIFY-INSTALL-V1** DOES NOT INCLUDE AUTO-UPDATING
 
 ### 🚀 What does it do?
 - Installs Spicetify
