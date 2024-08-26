@@ -2,7 +2,7 @@
 
 # 🎵 Spicetify Инсталер за Windows 11
 
-[Српски🇷🇸](#serbian) | [English🇬🇧](#english)
+[Српски | 🇷🇸](#serbian) | [English | 🇬🇧](#english)
 
 ## Српски
 
@@ -34,7 +34,7 @@
 
 # 🎵 Spicetify Installer for Windows 11
 
-[Српски🇷🇸](#serbian) | [English🇬🇧](#english)
+[Српски | 🇷🇸](#serbian) | [English | 🇬🇧](#english)
 
 ## English
 
