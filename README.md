@@ -27,7 +27,7 @@
 [Spicetify GitHub](https://github.com/spicetify/spicetify-cli)
 
 ### 🆘 Треба вам помоћ?
-Отворите **issue** на GitHub-у
+Отворите [**issue**](https://github.com/crnobog69/spicetify-bat-installer-autoupdater/issues) на GitHub-у
 
 ---
 <a name="english"></a>
@@ -59,4 +59,4 @@
 [Spicetify GitHub](https://github.com/spicetify/spicetify-cli)
 
 ### 🆘 Need help?
-Open an **issue** on GitHub
+Open an [**issue**](https://github.com/crnobog69/spicetify-bat-installer-autoupdater/issues) on GitHub
